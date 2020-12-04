@@ -1,0 +1,11 @@
+{
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.fontSize": 16,
+    "workbench.sideBar.location": "right",
+    "C_Cpp.clang_format_fallbackStyle": "Visual Studio",
+    "C_Cpp.default.cppStandard": "c++17",
+    "editor.detectIndentation": false,
+    "python.pythonPath": "/usr/bin/python3"
+}
