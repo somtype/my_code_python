@@ -17,7 +17,6 @@ plt.plot(datax,
          datay,
          linestyle='--',
          color='#00FF00',
-         marker='o',
          markersize='3',
          markerfacecolor='#00FFFF'
          )
